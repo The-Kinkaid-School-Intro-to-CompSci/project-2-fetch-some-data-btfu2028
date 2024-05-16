@@ -1,0 +1,90 @@
+{
+
+"players":[
+        {
+            "first": "Ellie",
+            "last": "Morrow",
+            "hometown": "Houston", 
+            "homestate": "Texas",
+            "homecountry": "USA",
+            "UTR": 9,
+            "grade": "Freshman"
+        },
+        {
+            "first": "Kathryn",
+            "last": "Wilson",
+            "hometown": "Colombus", 
+            "homestate": "Indiana",
+            "homecountry": "USA",
+            "UTR": 9,
+            "grade": "Freshman"
+
+        },
+        {
+            "first": "Sophie",
+            "last": "Schwartz",
+            "hometown": "Dallas",
+            "homestate": "Texas",
+            "homecountry": "USA",
+            "UTR": 9,
+            "grade": "Freshman"
+        },
+        
+        {
+            "first": "Ashlie",
+            "last": "Wilson",
+            "hometown": "Colombus",
+            "homestate": "Indiana",
+            "homecountry": "USA",
+            "UTR": 9,
+            "grade": "Junior"
+        },
+        
+        {
+            "first": "Kennedy",
+            "last": "Gibbs",
+            "hometown": "Houston",
+            "homestate": "Texas",
+            "homecountry":"USA",
+            "UTR": 10,
+            "grade": "Junior"
+
+        },
+        {
+            "first": "Ece",
+            "last": "Gencer",
+            "hometown": "Istanbul",
+            "homestate": "Istanbul",
+            "homecountry": "Turkey",
+            "UTR": 9,
+            "grade": "Freshman"
+        }, 
+        {
+            "first": "Tara",
+            "last": "Milić",
+            "hometown": "Ljubljana",
+            "homestate": "Central Slovenia",
+            "homecountry": "Slovenia",
+            "UTR": 10,
+            "grade": "Senior"
+        },
+        {
+            "first": "Carmen",
+            "last": "Gallardo Guevara",
+            "hometown": "Madrid",
+            "homestate": "Madrid Province",
+            "homecountry":"Spain",
+            "UTR": 10,
+            "grade": "Senior"
+        },
+        {
+            "first": "Juana",
+            "last": "Larranaga",
+            "hometown": "Tandil",
+            "homestate": "Buenos Aires Province",
+            "homecountry":"Argentina",
+            "UTR": 10,
+            "grade": "Senior"
+        }
+    ]
+}
